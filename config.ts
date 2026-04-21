@@ -30,7 +30,7 @@ function getDateAndTime(): string {
 export const DATE_AND_TIME = getDateAndTime();
 
 export const AI_NAME = "CareerCraft AI";
-export const OWNER_NAME = "Ibrahim Zeeshan";
+export const OWNER_NAME = "Ibrahim Rafiq";
 
 export const WELCOME_MESSAGE = `Hi there! I'm ${AI_NAME}, your personal career advisor for business, computer science, statistics, and data science students. I can help you craft a standout resume, prepare for interviews, navigate internship and job searches, and build a career strategy tailored to your background. What can I help you with today?`;
 
